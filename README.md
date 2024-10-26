@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/gerv%C3%A1sio-cardoso-6b9654227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<img align="right" width="400" alt="GIF" src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif" >
+<img align="right" width="400" alt="GIF" src="https://i.gifer.com/6vIk.gif" >
 
 <p>Acadêmico de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB) com inglês intermediário e grande amante da tecnologia, desenvolvimento web, e solução de problemas.
 </p>
@@ -37,6 +37,7 @@
 </div>
 <br/>
 <div>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Gervasss&show_icons=true&theme=gotham" alt="Hugorc10" />
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gervasss&layout=compact&theme=vue-dark" />
+ <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Gervasss&show_icons=true&theme=gotham&count_private=true" alt="Hugorc10" />
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gervasss&layout=compact&theme=vue-dark" />
+
 </div>
